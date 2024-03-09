@@ -31,6 +31,7 @@ The project aims to leverage data science techniques to enhance healthcare servi
 
 <h2>Technologies Used</h2>
 <ul>
+  <li>Python</li>
   <li>NumPy</li>
   <li>Pandas</li>
   <li>Matplotlib</li>
